@@ -1,0 +1,14 @@
+#EXTM3U
+
+# ==========================================
+# SERIE: Stranger Things (ID TMDB: 66732)
+# ==========================================
+
+# --- TEMPORADA 1 ---
+#EXTINF:-1 group-title="Séries | Stranger Things (2016)" tvg-logo="https://image.tmdb.org/t/p/original/at1w2UtsDnzU5Nwc9xvgg8zLFT5.jpg" tvg-tmdb="66732" tvg-type="serie" tvg-season="1" tvg-episode="1", Stranger Things - S01E01 - Capitulo Um: A Desaparição de Will Byers
+http://series/strangerthings/s01e01.mp4
+
+
+#EXTINF:-1 group-title="Séries | Stranger Things (2016)" tvg-logo="https://image.tmdb.org/t/p/original/hbeDhjRPUdjCBrqSU4YhhtXsFFn.jpg" tvg-tmdb="66732" tvg-type="serie" tvg-season="1" tvg-episode="2", Stranger Things - S01E02 - Capitulo Dois: A Esquisita da Rua Maple
+http://series/strangerthings/s01e02.mp4
+
